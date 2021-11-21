@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { Pet } from "../models/pet";
+import { Pet } from "../models/Pet";
 import { createMenuObject } from "../helpers/createMenuObject";
 
 type Banner = {
